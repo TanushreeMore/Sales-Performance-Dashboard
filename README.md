@@ -56,6 +56,8 @@ Order ID, Order Date, Ship Date, Segment, Country, Region, Category, Sub-Categor
 
 ## 🖼️ Dashboard Preview
 ![[Sales_Performance_Dashboard](./Sales_Performance_Dashboard.jpg)
+![Sales Performance Dashboard](./Sales_Performance_Dashboard.jpg)
+
 
 ---
 
